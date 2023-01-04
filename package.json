@@ -1,6 +1,6 @@
 {
   "name": "filter-and-map",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "A package for the `Array.filterAndMap` method.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -17,5 +17,5 @@
     "url": "https://github.com/ej-shafran/filter-and-map/issues"
   },
   "homepage": "https://github.com/ej-shafran/filter-and-map#readme",
-  "include": ["./src"]
+  "exclude": ["./demo/"]
 }
